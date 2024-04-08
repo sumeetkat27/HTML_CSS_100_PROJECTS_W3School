@@ -1,0 +1,14 @@
+.one {
+  border: none;
+  border-radius: 18px;
+  background-color: red;
+  padding: 10px 20px;
+  text-align: center;
+  color: black;
+  text-decoration: none;
+  margin: 10px 5px;
+  display: inline-block;
+}
+.one:hover {
+  background-color: bisque;
+}

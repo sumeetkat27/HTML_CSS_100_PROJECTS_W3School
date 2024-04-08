@@ -1,0 +1,14 @@
+.button {
+  padding: 14px 24px;
+  font-size: 16px;
+  cursor: pointer;
+  color: white;
+  background-color: blueviolet;
+  border: none;
+}
+.button:hover {
+  background-color: aquamarine;
+}
+i {
+  margin-right: 5px;
+}

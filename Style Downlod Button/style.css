@@ -1,0 +1,20 @@
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+.btn {
+  background-color: blueviolet;
+  color: azure;
+  padding: 12px 24px;
+  border: none;
+  font-size: 16px;
+  cursor: pointer;
+}
+i {
+  margin: 5px;
+}
+.btn:hover {
+  background-color: brown;
+}

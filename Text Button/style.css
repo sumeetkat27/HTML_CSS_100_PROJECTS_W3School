@@ -1,0 +1,42 @@
+.btn {
+  border: none;
+  background-color: inherit;
+  padding: 14px 24px;
+  cursor: pointer;
+  font-size: 16px;
+  display: inline-block;
+}
+.one {
+  color: green;
+}
+.one:hover {
+  background-color: green;
+  color: white;
+}
+.two {
+  color: tomato;
+}
+.two:hover {
+  background-color: tomato;
+  color: white;
+}
+.three {
+  color: blueviolet;
+}
+.three:hover {
+  background-color: blueviolet;
+  color: white;
+}
+.four {
+  color: pink;
+}
+.four:hover {
+  background-color: pink;
+  color: white;
+}
+.five {
+  color: black;
+}
+.five:hover {
+  background-color: beige;
+}

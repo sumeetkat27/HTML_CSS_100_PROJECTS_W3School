@@ -1,0 +1,21 @@
+* {
+  margin: 0;
+}
+.icon-bar {
+  width: 90px;
+  background-color: grey;
+}
+.icon-bar a {
+  display: block;
+  padding: 16px;
+  font-size: 26px;
+  color: black;
+  text-align: center;
+  transition: all 0.3s ease;
+}
+.icon-bar a:hover {
+  background-color: tomato;
+}
+.active {
+  background-color: aquamarine;
+}

@@ -1,0 +1,29 @@
+* {
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.side {
+  padding-left: 16px;
+}
+.topnav {
+  background-color: grey;
+  overflow: hidden;
+}
+.topnav a {
+  text-decoration: none;
+  text-align: center;
+  float: left;
+  color: beige;
+  font-size: 17px;
+  padding: 16px 12px;
+}
+
+.topnav a:hover {
+  background-color: brown;
+  color: azure;
+}
+.topnav a.active {
+  background-color: aquamarine;
+  float: right;
+  color: black;
+}

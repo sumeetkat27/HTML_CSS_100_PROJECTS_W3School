@@ -1,0 +1,51 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+.btn {
+  border: 2px soild black;
+  padding: 14px 24px;
+  cursor: pointer;
+  font-size: 16px;
+  color: black;
+}
+.one {
+  border-color: aqua;
+  color: aqua;
+}
+.one:hover {
+  background-color: aqua;
+  color: white;
+}
+.two {
+  border-color: aquamarine;
+  color: aquamarine;
+}
+.two:hover {
+  background-color: aquamarine;
+  color: white;
+}
+.three {
+  border-color: blue;
+  color: blue;
+}
+.three:hover {
+  background-color: blue;
+  color: white;
+}
+.four {
+  border-color: blueviolet;
+  color: blueviolet;
+}
+.four:hover {
+  background-color: blueviolet;
+  color: white;
+}
+.five {
+  border-color: black;
+  color: black;
+}
+.five:hover {
+  background-color: black;
+}

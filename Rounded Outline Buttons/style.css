@@ -1,0 +1,56 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+.btn {
+  border: 2px solid black;
+  border-radius: 5px;
+  cursor: pointer;
+  background-color: white;
+  padding: 14px 24px;
+  font-size: 16px;
+}
+.one {
+  border-color: aqua;
+  color: aqua;
+}
+.one:hover {
+  background-color: aqua;
+  color: white;
+}
+.two {
+  border-color: beige;
+  color: beige;
+}
+.two:hover {
+  background-color: beige;
+  color: white;
+}
+.three {
+  border-color: beige;
+  color: beige;
+}
+.three:hover {
+  background-color: beige;
+  color: white;
+}
+.four {
+  border-color: beige;
+  color: beige;
+}
+.four:hover {
+  background-color: beige;
+  color: white;
+}
+.five {
+  border-color: yellow;
+  color: yellow;
+}
+.five:hover {
+  background-color: yellow;
+  color: black;
+}
+h1 {
+  margin-bottom: 15px;
+}

@@ -1,0 +1,20 @@
+.block {
+  width: 100%;
+  padding: 14px 28px;
+  display: block;
+  cursor: pointer;
+  color: black;
+  background-color: green;
+  text-align: center;
+  font-size: 20px;
+  border: none;
+}
+.block:hover {
+  color: white;
+  background-color: blueviolet;
+}
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}

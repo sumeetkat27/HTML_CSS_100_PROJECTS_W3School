@@ -1,0 +1,23 @@
+* {
+  margin: 0;
+}
+.icon-bar {
+  width: 100%;
+  background-color: grey;
+  overflow: hidden;
+}
+.icon-bar a {
+  font-size: 24px;
+  color: black;
+  padding: 16px 0px;
+  float: left;
+  width: 20%;
+  text-align: center;
+  transition: all 0.3s ease;
+}
+.icon-bar a:hover {
+  background-color: pink;
+}
+.active {
+  background-color: aqua;
+}
